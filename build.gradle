@@ -68,7 +68,7 @@ subprojects {
         compileOnly 'org.projectlombok:lombok:1.18.6'
         compile 'commons-beanutils:commons-beanutils:1.9.4'
 //        compile "org.springframework.boot:spring-boot-starter-data-redis:$springBootVersion"
-        compile 'org.web3j:core:4.2.0'
+        compile 'org.web3j:core:5.0.1'
         compile 'wf.bitcoin:bitcoin-rpc-client:1.1.0'
 //        compile 'com.github.EOSEssentials:eos-java-rpc-wrapper:master'
 
